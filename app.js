@@ -9,7 +9,7 @@
 */
 
 // Addition (+)
-console.log(5 + 9);
+console.log (5 + 9);
 
 console.log("one" + "one");
 
@@ -60,7 +60,7 @@ console.log(c);
 5!== "five";
 
 // Greater Than (>)
-5 > 10;
+5 < 10;
 
 // Less Than (<)
 "20" < 20;
