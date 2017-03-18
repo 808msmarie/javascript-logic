@@ -11,13 +11,13 @@
 // Addition (+)
 console.log (5 + 9);
 
-console.log("one" + "one");
+console.log ("one" + "one");
 
 // Subtraction (-)
-console.log(8 - 20);
+console.log (8 - 20);
 
 // Multiplication (*)
-console.log(2 * 0);
+console.log (2 * 0);
 
 // Division (/)
 console.log(15/50);
