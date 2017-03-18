@@ -9,29 +9,44 @@
 */
 
 // Addition (+)
-5 + 9;
+console.log(5 + 9);
 
-"one" + "one";
+console.log("one" + "one");
 
 // Subtraction (-)
-8 - 20;
+console.log(8 - 20);
 
 // Multiplication (*)
-2 * 0;
+console.log(2 * 0);
 
 // Division (/)
-15/50;
+console.log(15/50);
 
 // Modulus (%)
-5 % 2;
+console.log(5 % 2);
 
 // Increment (++)
-2++;
+//2++; // This is invalid
+var a = 2;
+a++;
+console.log(a);
 
--1++;
+//-1++;
+var b = -1;
+b++;
+console.log(b);
+/*
+* Comparison Operators (These return a boolean value of true or false)
+* For those with the boolean answer false, change the expression to evaluate to true
+*/
+
 
 // Decrement (--)
-5--;
+
+//5--;
+var c = 5;
+c--;
+console.log(c);
 
 /*
 * Comparison Operators (These return a boolean value of true or false)
