@@ -23,7 +23,7 @@ console.log (2 * 0);
 console.log (15/50);
 
 // Modulus (%)
-console.log(5 % 2);
+console.log (5 % 2);
 
 // Increment (++)
 //2++; // This is invalid
@@ -54,7 +54,7 @@ console.log(c);
 */
 
 // Strict Equal (===)
-5 === "five";
+5 ===  "five";
 
 // Not Equal (!==)
 5!== "five";
