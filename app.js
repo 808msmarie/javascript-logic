@@ -20,7 +20,7 @@ console.log (8 - 20);
 console.log (2 * 0);
 
 // Division (/)
-console.log(15/50);
+console.log (15/50);
 
 // Modulus (%)
 console.log(5 % 2);
